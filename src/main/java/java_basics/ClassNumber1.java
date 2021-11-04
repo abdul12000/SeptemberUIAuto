@@ -51,5 +51,7 @@ public class ClassNumber1 {
         int L = 200 % 11;
         System.out.println("The remainder of B % A is : + " + L);
 
+        int M = 50 % 11;
+        System.out.println("The remainder of B % A is : + " + M);
     }
 }
