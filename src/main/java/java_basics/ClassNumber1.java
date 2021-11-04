@@ -48,7 +48,8 @@ public class ClassNumber1 {
         int G = 100 % 11;
         System.out.println("The remainder of B % A is : + " + G);
 
-
+        int L = 200 % 11;
+        System.out.println("The remainder of B % A is : + " + L);
 
     }
 }
